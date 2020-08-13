@@ -10,7 +10,7 @@ function App(){
 
     // // Array [valor, funçãoDeAtualização]
 
-    // function increment(){
+    // function increment() {
     //     setCounter(counter + 1);
     // }
 
